@@ -3,15 +3,15 @@ Laravel authentication using breeze step by step
 *
 *
 *
-(step 1)In xampp\htdocs run cmd and write
-    *(composer create-project laravel/lararvel projectname)
-(step 2)In path xampp\htdocs\projectname run cmd
-    (1) composer require laravel/breeze --dev)
-    (2) php artisan breeze:install
-    (3) npm install
-    (4) npm run build
-    (5) php artisan migrate
-    (6) php artisan serve
+(step 1)In xampp\htdocs run cmd and write.
+    *(composer create-project laravel/lararvel projectname).
+(step 2)In path xampp\htdocs\projectname run cmd.
+    (1) composer require laravel/breeze --dev).
+    (2) php artisan breeze:install.
+    (3) npm install.
+    (4) npm run build.
+    (5) php artisan migrate.
+    (6) php artisan serve.
 
 
 
